@@ -115,3 +115,14 @@ section {
     width: 250px;
     color: #2c3e50
 }
+
+.persona img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.persona:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    transform: scale(1.02);
+}
+
